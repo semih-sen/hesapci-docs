@@ -34,10 +34,16 @@ Uygulama, çekirdek işlevleri için herhangi bir hassas Android iznine (interne
 
 Uygulama genel kullanıcı kitlesine yöneliktir ve bilerek 13 yaşın altındaki çocuklardan veri toplamaz — zaten hiçbir veri toplanmamaktadır.
 
-## 6. Bu Politikadaki Değişiklikler
+## 6. Sorumluluk Reddi
+
+Hesapçı, girdiğiniz verilere dayanarak hesaplama yapan bir kişisel finans defteridir. Uygulama; banka, yatırım veya vergi danışmanlığı hizmeti sunmaz ve hesaplamaların doğruluğunu garanti etmez.
+
+Gösterilen tutarlar tamamen sizin girdiğiniz verilere dayanır. Uygulama "olduğu gibi" sunulur; veri girişi hatalarından, döviz kuru güncelliğinden veya olası yazılım hatalarından kaynaklanan sonuçlardan geliştirici sorumlu tutulamaz. Resmi kayıtlarınızı (banka ekstresi, muhasebe kayıtları, vergi beyanları vb.) bu uygulamanın yerine geçecek şekilde kullanmayınız; önemli finansal kararlarda ilgili resmi kaynakları ve gerekirse bir uzmanı esas alınız.
+
+## 7. Bu Politikadaki Değişiklikler
 
 Uygulama işlevselliği değiştikçe bu politika güncellenebilir. Güncellemeler bu sayfada yayımlanacaktır.
 
-## 7. İletişim
+## 8. İletişim
 
 Sorularınız için: halil.semih.sen@gmail.com
